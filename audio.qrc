@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+    <file alias="alert.mp3">sounds/tos-redalert.mp3</file>
+</qresource>
+</RCC>
